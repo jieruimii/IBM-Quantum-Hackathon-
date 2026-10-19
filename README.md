@@ -1,5 +1,3 @@
-# IBM-Quantum-Hackathon-
-
 # Rescuing Quantum Spin Dynamics with Zero-Noise Extrapolation
 
 **Quantum circuits produce results. Error mitigation improves estimates. Evidence determines whether those estimates deserve trust.**
